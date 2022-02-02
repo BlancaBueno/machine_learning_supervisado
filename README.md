@@ -1,2 +1,2 @@
 # machine_learning_supervisado
-Primer repositoriode machine learning
+Primer repositorio de machine learning
